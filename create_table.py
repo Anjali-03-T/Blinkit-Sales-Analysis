@@ -4,7 +4,7 @@ import mysql.connector
 connection = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="anjali@2003",
+    password="your pssw",
     database="blinkit_sales_db"
 )
 
