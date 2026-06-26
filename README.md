@@ -57,6 +57,8 @@ Blinkit-Sales-Analysis/
 ## 📊 Dashboard Preview
 
 ![Blinkit Sales Dashboard](Images/Dashboard.png)
+<img width="1161" height="662" alt="Screenshot 2026-06-26 192812" src="https://github.com/user-attachments/assets/599ce956-780f-433b-a899-fa4fa92c6937" />
+
 
 ---
 
